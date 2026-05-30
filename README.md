@@ -1,7 +1,8 @@
-# KickController
+# Flight Controller
 
 I am making a STM32F405RGT6 based flight controller for my drone.and has IMU and barometer and has a USB-B Type. It is designed for 4 motor drone. It has 4 layer PCB
-<br><img width="1177" height="850" alt="Screenshot 2026-05-10 063511" src="https://github.com/user-attachments/assets/a50bd4fc-0ba1-4aff-80b7-457b3f4b2eb3" />
+<br><img width="942" height="895" alt="Screenshot 2026-05-30 172601" src="https://github.com/user-attachments/assets/cb6c1bba-5f72-419f-8e5c-2f79c78657e8" />
+
 
 
 <br>
@@ -15,13 +16,13 @@ Barometer: BMP280<br>
 - ## Bill of Materials (BOM)
 | Serial Num | Description | Total (USD) | 
 |----:|--------------------------|-------------|
-| 1  | PCB and Assembly  |211.7 |
-| 2 | Shipping JLCPCB  |24.22 |
+| 1  | PCB and Assembly  |167.50 |
+| 2 | Shipping - Discount JLCPCB  |14.55 |
 
 
 ### 💰 Cost Summary
 
-- **Estimated Total Cost ( PCB ASSEMBLY + Shipping):** **$235.92	 USD**
+- **Estimated Total Cost ( PCB ASSEMBLY + Shipping):** **$182.05 USD**
  ## Schematic & PCB<br>
  <img width="992" height="895" alt="Screenshot 2026-05-10 063433" src="https://github.com/user-attachments/assets/d5eb8608-1236-4407-a5cc-08c6a1043dc2" />
 <img width="1259" height="875" alt="Screenshot 2026-05-10 073337" src="https://github.com/user-attachments/assets/819a3ce0-4202-4a11-b31b-0b216b08b1c4" />
@@ -32,7 +33,8 @@ Barometer: BMP280<br>
 
 
 # 3d Render<br>
-<img width="1177" height="850" alt="Screenshot 2026-05-10 063511" src="https://github.com/user-attachments/assets/6dfb45d9-8668-4703-abf1-06e355a303b3" />
-<img width="1067" height="1000" alt="Screenshot 2026-05-10 063446" src="https://github.com/user-attachments/assets/3fbd10d3-b82d-41b8-a2b3-276b28e775e7" />
+<img width="942" height="895" alt="Screenshot 2026-05-30 172601" src="https://github.com/user-attachments/assets/7fd55611-7ef5-4fc2-a61f-b6487fd4310a" />
+<img width="773" height="613" alt="Screenshot 2026-05-30 172545" src="https://github.com/user-attachments/assets/1b670aec-e842-4b47-93a2-312b4bf3e4b6" />
+
 
   <br>
